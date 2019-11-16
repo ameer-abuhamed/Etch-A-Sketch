@@ -1,0 +1,38 @@
+body {
+	background-color: rgb(2, 54, 54)	;
+}
+
+#header{
+	text-align: center;
+}
+
+#newone{	
+	margin: 30px auto;
+	border-radius: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 5px 20px;
+	background-color: rgb(247, 250, 87) ;
+	
+}
+
+.container{
+	height: 600px;
+	width: 600px;
+	margin: 0 auto;
+	padding: 0px;	
+}
+
+.grid{
+  display: inline-block;
+  background-color:rgb(41, 1, 1); 
+  border: none;
+  margin: 0px;
+  padding: 0px;  
+  box-sizing: content-box;	
+}
+
+
+
+
+
